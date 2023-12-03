@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  3 DEC 2023 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.6)  3 DEC 2023 16:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -348,22 +348,22 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (./sdutoi_benbstephenson_ecl1_ex05.aux)
 \openout1 = `sdutoi_benbstephenson_ecl1_ex05.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -425,336 +425,279 @@ e
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 73--83
+Underfull \hbox (badness 10000) in paragraph at lines 70--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--83
+Underfull \hbox (badness 10000) in paragraph at lines 70--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 <4.1a1.png, id=10, 568.1225pt x 559.08875pt>
 File: 4.1a1.png Graphic file (type png)
 <use 4.1a1.png>
-Package pdftex.def Info: 4.1a1.png  used on input line 96.
+Package pdftex.def Info: 4.1a1.png  used on input line 93.
 (pdftex.def)             Requested size: 281.85587pt x 277.38533pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--98
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
 
  []
 
 [1]
-./sdutoi_benbstephenson_ecl1_ex05.tex:102: Missing $ inserted.
-<inserted text> 
-                $
-l.102 \bracketsub{the\ old}{subject}
-                                    \bracketsub{man}{verb}\bracketsub{the\ b...
-
-? s
-OK, entering \scrollmode...
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 102.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 102.
-./sdutoi_benbstephenson_ecl1_ex05.tex:102: Undefined control sequence.
-\bracketsub #1#2->\left [ #1 \right ]_{\text 
-                                             {#2}}
-l.102 \bracketsub{the\ old}{subject}
-                                    \bracketsub{man}{verb}\bracketsub{the\ b...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./sdutoi_benbstephenson_ecl1_ex05.tex:102: Undefined control sequence.
-\bracketsub #1#2->\left [ #1 \right ]_{\text 
-                                             {#2}}
-l.102 ...{the\ old}{subject}\bracketsub{man}{verb}
-                                                  \bracketsub{the\ boat}{obj...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./sdutoi_benbstephenson_ecl1_ex05.tex:102: Undefined control sequence.
-\bracketsub #1#2->\left [ #1 \right ]_{\text 
-                                             {#2}}
-l.102 ...{man}{verb}\bracketsub{the\ boat}{object}
-                                                   \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./sdutoi_benbstephenson_ecl1_ex05.tex:103: Missing $ inserted.
-<inserted text> 
-                $
-l.103 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--103
+Underfull \hbox (badness 10000) in paragraph at lines 98--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 98--102
 
  []
 
 <4.1a2.png, id=18, 647.41875pt x 656.4525pt>
 File: 4.1a2.png Graphic file (type png)
 <use 4.1a2.png>
-Package pdftex.def Info: 4.1a2.png  used on input line 109.
+Package pdftex.def Info: 4.1a2.png  used on input line 106.
 (pdftex.def)             Requested size: 281.85587pt x 285.78491pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--111
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
 
  []
 
 [2 <./4.1a1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
-<4.1a5.png, id=26, 638.385pt x 519.9425pt>
+<4.1a5.png, id=23, 638.385pt x 519.9425pt>
 File: 4.1a5.png Graphic file (type png)
 <use 4.1a5.png>
-Package pdftex.def Info: 4.1a5.png  used on input line 119.
+Package pdftex.def Info: 4.1a5.png  used on input line 116.
 (pdftex.def)             Requested size: 281.85587pt x 229.56084pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--121
+Underfull \hbox (badness 10000) in paragraph at lines 113--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 [3 <./4.1a2.png> <./4.1a5.png>]
-<sen4.png, id=32, 510.90875pt x 307.1475pt>
+<sen4.png, id=29, 510.90875pt x 307.1475pt>
 File: sen4.png Graphic file (type png)
 <use sen4.png>
-Package pdftex.def Info: sen4.png  used on input line 129.
+Package pdftex.def Info: sen4.png  used on input line 126.
 (pdftex.def)             Requested size: 328.82707pt x 197.67978pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--131
+Underfull \hbox (badness 10000) in paragraph at lines 123--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 
  []
 
-<sen5.png, id=33, 528.97626pt x 250.9375pt>
+<sen5.png, id=30, 528.97626pt x 250.9375pt>
 File: sen5.png Graphic file (type png)
 <use sen5.png>
-Package pdftex.def Info: sen5.png  used on input line 140.
+Package pdftex.def Info: sen5.png  used on input line 137.
 (pdftex.def)             Requested size: 328.82707pt x 155.98933pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--142
+Underfull \hbox (badness 10000) in paragraph at lines 134--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
-<sen6.png, id=34, 542.025pt x 194.7275pt>
+<sen6.png, id=31, 542.025pt x 194.7275pt>
 File: sen6.png Graphic file (type png)
 <use sen6.png>
-Package pdftex.def Info: sen6.png  used on input line 150.
+Package pdftex.def Info: sen6.png  used on input line 147.
 (pdftex.def)             Requested size: 328.82707pt x 118.13881pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--152
+Underfull \hbox (badness 10000) in paragraph at lines 144--149
 
  []
 
 [4 <./sen4.png> <./sen5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 155--157
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 
  []
 
-<sen7a.png, id=40, 438.63875pt x 282.05376pt>
+<sen7a.png, id=37, 438.63875pt x 282.05376pt>
 File: sen7a.png Graphic file (type png)
 <use sen7a.png>
-Package pdftex.def Info: sen7a.png  used on input line 162.
+Package pdftex.def Info: sen7a.png  used on input line 159.
 (pdftex.def)             Requested size: 211.38832pt x 135.93083pt.
-<sen7b.png, id=41, 635.37375pt x 118.4425pt>
+<sen7b.png, id=38, 635.37375pt x 118.4425pt>
 File: sen7b.png Graphic file (type png)
 <use sen7b.png>
-Package pdftex.def Info: sen7b.png  used on input line 166.
+Package pdftex.def Info: sen7b.png  used on input line 163.
 (pdftex.def)             Requested size: 375.80544pt x 70.05757pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--170
+Underfull \hbox (badness 10000) in paragraph at lines 155--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--175
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
 
  []
 
-<sen8.png, id=42, 638.385pt x 87.32625pt>
+<sen8.png, id=39, 638.385pt x 87.32625pt>
 File: sen8.png Graphic file (type png)
 <use sen8.png>
-Package pdftex.def Info: sen8.png  used on input line 180.
+Package pdftex.def Info: sen8.png  used on input line 177.
 (pdftex.def)             Requested size: 328.82707pt x 44.98083pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--182
+Underfull \hbox (badness 10000) in paragraph at lines 174--179
 
  []
 
 [5 <./sen6.png> <./sen7a.png> <./sen7b.png>]
-<sen9.png, id=49, 549.05125pt x 282.05376pt>
+<sen9.png, id=46, 549.05125pt x 282.05376pt>
 File: sen9.png Graphic file (type png)
 <use sen9.png>
-Package pdftex.def Info: sen9.png  used on input line 191.
+Package pdftex.def Info: sen9.png  used on input line 188.
 (pdftex.def)             Requested size: 328.82707pt x 168.92368pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--193
+Underfull \hbox (badness 10000) in paragraph at lines 185--190
 
  []
 
-<b3.png, id=50, 782.925pt x 343.2825pt>
+<b3.png, id=47, 782.925pt x 343.2825pt>
 File: b3.png Graphic file (type png)
 <use b3.png>
-Package pdftex.def Info: b3.png  used on input line 202.
+Package pdftex.def Info: b3.png  used on input line 199.
 (pdftex.def)             Requested size: 469.75502pt x 205.97107pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--204
+Underfull \hbox (badness 10000) in paragraph at lines 193--201
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--204
+Underfull \hbox (badness 10000) in paragraph at lines 193--201
 
  []
 
 [6 <./sen8.png> <./sen9.png>]
-<b5.png, id=57, 902.37125pt x 347.2975pt>
+<b5.png, id=54, 902.37125pt x 347.2975pt>
 File: b5.png Graphic file (type png)
 <use b5.png>
-Package pdftex.def Info: b5.png  used on input line 209.
+Package pdftex.def Info: b5.png  used on input line 206.
 (pdftex.def)             Requested size: 469.75502pt x 180.7971pt.
-<2sen1.png, id=58, 575.14874pt x 54.2025pt>
+<2sen1.png, id=55, 575.14874pt x 54.2025pt>
 File: 2sen1.png Graphic file (type png)
 <use 2sen1.png>
-Package pdftex.def Info: 2sen1.png  used on input line 220.
+Package pdftex.def Info: 2sen1.png  used on input line 217.
 (pdftex.def)             Requested size: 328.82707pt x 30.99002pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--222
+Underfull \hbox (badness 10000) in paragraph at lines 214--219
 
  []
 
 [7 <./b3.png> <./b5.png> <./2sen1.png>]
-<2sen2.png, id=65, 614.295pt x 65.24374pt>
+<2sen2.png, id=62, 614.295pt x 65.24374pt>
 File: 2sen2.png Graphic file (type png)
 <use 2sen2.png>
-Package pdftex.def Info: 2sen2.png  used on input line 229.
+Package pdftex.def Info: 2sen2.png  used on input line 226.
 (pdftex.def)             Requested size: 328.82707pt x 34.92445pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--231
+Underfull \hbox (badness 10000) in paragraph at lines 223--228
 
  []
 
-<2sen3.png, id=66, 594.22pt x 106.3975pt>
+<2sen3.png, id=63, 594.22pt x 106.3975pt>
 File: 2sen3.png Graphic file (type png)
 <use 2sen3.png>
-Package pdftex.def Info: 2sen3.png  used on input line 238.
+Package pdftex.def Info: 2sen3.png  used on input line 235.
 (pdftex.def)             Requested size: 328.82707pt x 58.88083pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--240
+Underfull \hbox (badness 10000) in paragraph at lines 232--237
 
  []
 
-<2sen4.png, id=67, 624.3325pt x 176.66pt>
+<2sen4.png, id=64, 624.3325pt x 176.66pt>
 File: 2sen4.png Graphic file (type png)
 <use 2sen4.png>
-Package pdftex.def Info: 2sen4.png  used on input line 246.
+Package pdftex.def Info: 2sen4.png  used on input line 243.
 (pdftex.def)             Requested size: 328.82707pt x 93.0444pt.
-<2sen5.png, id=68, 623.32875pt x 154.5775pt>
+<2sen5.png, id=65, 623.32875pt x 154.5775pt>
 File: 2sen5.png Graphic file (type png)
 <use 2sen5.png>
-Package pdftex.def Info: 2sen5.png  used on input line 254.
+Package pdftex.def Info: 2sen5.png  used on input line 251.
 (pdftex.def)             Requested size: 328.82707pt x 81.54593pt.
 [8 <./2sen2.png> <./2sen3.png> <./2sen4.png>]
-<2sen6.png, id=75, 425.59pt x 150.5625pt>
+<2sen6.png, id=72, 425.59pt x 150.5625pt>
 File: 2sen6.png Graphic file (type png)
 <use 2sen6.png>
-Package pdftex.def Info: 2sen6.png  used on input line 262.
+Package pdftex.def Info: 2sen6.png  used on input line 259.
 (pdftex.def)             Requested size: 234.8775pt x 83.0945pt.
-<2sen7.png, id=76, 572.1375pt x 179.67125pt>
+<2sen7.png, id=73, 572.1375pt x 179.67125pt>
 File: 2sen7.png Graphic file (type png)
 <use 2sen7.png>
-Package pdftex.def Info: 2sen7.png  used on input line 270.
+Package pdftex.def Info: 2sen7.png  used on input line 267.
 (pdftex.def)             Requested size: 328.82707pt x 103.26355pt.
-<2sen8.png, id=77, 582.175pt x 184.69pt>
+<2sen8.png, id=74, 582.175pt x 184.69pt>
 File: 2sen8.png Graphic file (type png)
 <use 2sen8.png>
-Package pdftex.def Info: 2sen8.png  used on input line 278.
+Package pdftex.def Info: 2sen8.png  used on input line 275.
 (pdftex.def)             Requested size: 328.82707pt x 104.31903pt.
  [9 <./2sen5.png> <./2sen6.png> <./2sen7.png>]
-<2sen9.png, id=84, 606.265pt x 224.84pt>
+<2sen9.png, id=81, 606.265pt x 224.84pt>
 File: 2sen9.png Graphic file (type png)
 <use 2sen9.png>
-Package pdftex.def Info: 2sen9.png  used on input line 286.
+Package pdftex.def Info: 2sen9.png  used on input line 283.
 (pdftex.def)             Requested size: 328.82707pt x 121.95041pt.
-<3sen1.png, id=85, 648.4225pt x 402.50375pt>
+<3sen1.png, id=82, 648.4225pt x 402.50375pt>
 File: 3sen1.png Graphic file (type png)
 <use 3sen1.png>
-Package pdftex.def Info: 3sen1.png  used on input line 295.
+Package pdftex.def Info: 3sen1.png  used on input line 292.
 (pdftex.def)             Requested size: 328.82707pt x 204.11955pt.
  [10 <./2sen8.png> <./2sen9.png> <./3sen1.png>]
-<3sen2.png, id=92, 654.445pt x 403.5075pt>
+<3sen2.png, id=89, 654.445pt x 403.5075pt>
 File: 3sen2.png Graphic file (type png)
 <use 3sen2.png>
-Package pdftex.def Info: 3sen2.png  used on input line 303.
+Package pdftex.def Info: 3sen2.png  used on input line 300.
 (pdftex.def)             Requested size: 328.82707pt x 202.74454pt.
-<3sen3.png, id=93, 641.39626pt x 429.605pt>
+<3sen3.png, id=90, 641.39626pt x 429.605pt>
 File: 3sen3.png Graphic file (type png)
 <use 3sen3.png>
-Package pdftex.def Info: 3sen3.png  used on input line 311.
+Package pdftex.def Info: 3sen3.png  used on input line 308.
 (pdftex.def)             Requested size: 328.82707pt x 220.24936pt.
  [11 <./3sen2.png> <./3sen3.png>] (./sdutoi_benbstephenson_ecl1_ex05.aux) ) 
 Here is how much of TeX's memory you used:
- 3358 strings out of 476025
- 53069 string characters out of 5790018
+ 3355 strings out of 476025
+ 53031 string characters out of 5790018
  1855388 words of memory out of 5000000
- 23781 multiletter control sequences out of 15000+600000
+ 23778 multiletter control sequences out of 15000+600000
  519577 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,62p,368b,240s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
-/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local
-/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/t
-exlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/tex
-live/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texli
-ve/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2
-023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on sdutoi_benbstephenson_ecl1_ex05.pdf (12 pages, 1366079 bytes)
+r/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loca
+l/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/
+texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/te
+xlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texl
+ive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on sdutoi_benbstephenson_ecl1_ex05.pdf (12 pages, 1338716 bytes)
 .
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 128 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

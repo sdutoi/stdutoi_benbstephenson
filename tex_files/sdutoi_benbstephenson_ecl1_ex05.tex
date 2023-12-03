@@ -15,9 +15,6 @@
 \newcommand{\studentName}{Stefan du Toit, Benjamin Stephenson}
 \newcommand{\courseTitle}{ECL1}
 \newcommand{\assignmentTitle}{Exercise 05}
-\newcommand{\bracketsub}[2]{%
-  \left[ #1 \right]_{\text{#2}}%
-}
 
 % Header
 \fancyhead[L]{\studentName}
@@ -99,8 +96,8 @@ Sentence 1: The old man the boat. \\
 
 
 Sentence 1 is clearly wrong. The only way to interpret this sentence is: \\
-\bracketsub{the\ old}{subject}\bracketsub{man}{verb}\bracketsub{the\ boat}{object} \\
-
+S(NP: The old (VP: (Verb: man( NP: the boat))))
+\\ \\
 It is understandable that GPT got this wrong because the verb 'to man' isn't commonly used, and using 'the old' as a nominal phrase is also unexpected. \\
 \subsubsection{}	%sentence 2
 Sentence 2: "The weary men manned the old boat on the tumultuous sea." \\
